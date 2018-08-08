@@ -65,6 +65,6 @@
          </font>
       </TextField>
       <Button layoutX="90.0" layoutY="469.0" mnemonicParsing="false" onAction="#agregarEmpleadoLista" prefHeight="54.0" prefWidth="156.0" text="Agregar a la Lista " />
-      <Button layoutX="358.0" layoutY="469.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="156.0" text="Guardar Archivo XML" />
+      <Button layoutX="358.0" layoutY="469.0" mnemonicParsing="false" onAction="#crearArchivoXML" prefHeight="54.0" prefWidth="156.0" text="Guardar Archivo XML" />
    </children>
 </AnchorPane>
