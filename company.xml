@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <empleado>
+    <Nombre>David</Nombre>
+    <Direccion>car12</Direccion>
+    <Edad>30</Edad>
+    <Codigo>e2010</Codigo>
+    <Departamento>Operaciones y sistemas</Departamento>
+  </empleado>
+  <empleado>
+    <Nombre>Maria</Nombre>
+    <Direccion>calle34</Direccion>
+    <Edad>28</Edad>
+    <Codigo>e36978</Codigo>
+    <Departamento>Contabilidad</Departamento>
+  </empleado>
+</company>
